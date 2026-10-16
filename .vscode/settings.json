@@ -1,0 +1,7 @@
+﻿{
+  // This repo is AI-free: no inline suggestions, no chat.
+  "github.copilot.enable": { "*": false },
+  "github.copilot.editor.enableAutoCompletions": false,
+  "chat.disableAIFeatures": true,
+  "editor.inlineSuggest.enabled": false
+}
